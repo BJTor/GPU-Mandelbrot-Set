@@ -31,3 +31,4 @@ Help
 
 From MATLAB, type "help mandelbrotViewer" to view the help for the application.
 
+[![View A GPU Mandelbrot Set on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://uk.mathworks.com/matlabcentral/fileexchange/30988-a-gpu-mandelbrot-set)
