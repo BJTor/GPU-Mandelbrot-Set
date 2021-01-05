@@ -1,0 +1,20 @@
+2019-04-29 (v1.5):
+* Make robust to zero or non-integer axes sizes. Add app icon.
+
+2014-10-15 (v1.4):
+* Fix compatibility with R2014b
+
+2012-11-01 (v1.3):
+* Updated to use new "gpuArray" names for build functions.
+* MATLAB App included for ease of installation/removal.
+
+2012-04-17 (v1.2): 
+* Add animation button to toolbar
+* Fix display freeze when toggling control panel on/off
+
+2011-11-15 (v1.1): 
+* Fix warnings when animating with an odd window size
+* Guard against the window closing to prevent an error when exiting
+
+2011-04-07 (v1.0): 
+* Initial FEX release
